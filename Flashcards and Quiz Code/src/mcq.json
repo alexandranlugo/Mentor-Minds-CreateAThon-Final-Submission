@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "What is the first law of motion, also known as the Law of Inertia?",
+      "options": [
+        "An object at rest will remain in motion unless acted upon by an external force.",
+        "A net force acting on an object will result in a change in its momentum.",
+        "The force required to move an object is directly proportional to its mass and acceleration.",
+        "Every action has an equal and opposite reaction."
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which of the following best describes Newton's second law of motion?",
+      "options": [
+        "F = ma, where F is the net force acting on an object.",
+        "A force applied to an object will always cause it to accelerate.",
+        "The more massive an object is, the greater its inertia.",
+        "An object at rest will remain in rest unless acted upon by an external force."
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "A car accelerates from 0 to 60 km/h in 10 seconds. What can be concluded about the net force acting on the car?",
+      "options": [
+        "It is negligible.",
+        "It must be constant throughout the acceleration period.",
+        "The force is directly proportional to the mass of the car.",
+        "None of these options."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A person throws a ball upward with an initial velocity of 15 m/s. What will happen to its velocity as it reaches the highest point?",
+      "options": [
+        "Its velocity will increase.",
+        "Its velocity will decrease.",
+        "Its velocity will remain constant.",
+        "The information is insufficient."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "According to Newton's third law of motion, what happens when a car pushes a wall?",
+      "options": [
+        "The car exerts an equal force on the wall and experiences a larger force in return.",
+        "The car exerts a smaller force on the wall than it experiences itself.",
+        "The car does not exert any force on the wall.",
+        "There is no interaction between the car and the wall."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A block of wood with a mass of 2 kg is moving at a speed of 5 m/s when it collides with another identical block. What can be concluded about the collision?",
+      "options": [
+        "Both blocks will stick together after the collision.",
+        "The first block will come to rest while the second block gains a velocity of 10 m/s.",
+        "There is insufficient information to determine what happens during the collision.",
+        "None of these options."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "A force of 20 N acts on an object with a mass of 5 kg for a period of 10 seconds. What will be its final velocity after the force has been applied?",
+      "options": [
+        "0 m/s.",
+        "4 m/s.",
+        "The information is insufficient to determine the final velocity.",
+        "None of these options."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A ball rolls up a frictionless ramp with an initial velocity of 10 m/s. What can be concluded about its velocity at the highest point?",
+      "options": [
+        "It will increase as it reaches the top.",
+        "It will remain constant throughout the motion.",
+        "The information is insufficient to determine what happens during the motion.",
+        "None of these options."
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "What would happen if all external forces acting on an object were suddenly removed?",
+      "options": [
+        "Its velocity would decrease due to air resistance.",
+        "Its velocity would remain constant while its acceleration becomes zero.",
+        "Its velocity and acceleration both become zero.",
+        "None of these options."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "What is the net effect on an object's motion when two forces acting in opposite directions are applied to it?",
+      "options": [
+        "The forces will cancel each other out.",
+        "The force with a greater magnitude will dominate the motion.",
+        "There will be no change in its motion.",
+        "None of these options."
+      ],
+      "correctOption": 2,
+      "points": 1
+    }
+  ]
+}
